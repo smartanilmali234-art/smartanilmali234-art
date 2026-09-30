@@ -148,25 +148,25 @@ A machine learning application for stock market analysis and price prediction.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=smartanilmali234-art&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=smartanilmali234-art&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartanilmali234-art&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartanilmali234-art&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=smartanilmali234-art&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com/?user=smartanilmali234-art&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
 
 </div>
-
 ---
 
-## 🟩 Daily GitHub Contribution Activity
+## 🟩 GitHub Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=smartanilmali234-art&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Activity" width="100%" alt="GitHub contribution graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=smartanilmali234-art&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity"/>
 
 </div>
+
 
 ---
 
@@ -174,7 +174,7 @@ A machine learning application for stock market analysis and price prediction.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=smartanilmali234-art&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="100%" alt="GitHub trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=smartanilmali234-art&theme=algolia&no-frame=true&margin-w=5&row=2&column=4" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
