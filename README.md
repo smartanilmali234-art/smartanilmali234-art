@@ -1,22 +1,4 @@
-```html
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101828,50:0055AA,100:00E5FF&height=220&section=header&text=ANIL%20MALI&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20DATA%20SCIENCE%20ENGINEER&descSize=20&descAlignY=58"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+Engineer;Machine+Learning+Engineer;Aspiring+Data+Scientist;AI+%26+Data+Science+Enthusiast;Deep+Learning+Developer;Building+Real-World+AI+Projects" alt="Typing SVG"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=smartanilmali234-art&style=for-the-badge&color=0077FF&label=PROFILE+VIEWS"/>
-
-<a href="https://github.com/smartanilmali234-art?tab=followers">
-<img src="https://img.shields.io/github/followers/smartanilmali234-art?style=for-the-badge&color=00C853&label=FOLLOWERS"/>
-</a>
-
-</div>
-```
-
-
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101828,50:0055AA,100:00E5FF&height=220&section=header&text=ANIL%20MALI&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20DATA%20SCIENCE%20ENGINEER&descSize=20&descAlignY=58"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+Engineer;Machine+Learning+Engineer;Aspiring+Data+Scientist;AI+%26+Data+Science+Enthusiast;Deep+Learning+Developer;Building+Real-World+AI+Projects" alt="Typing SVG"/> <br/> <img src="https://komarev.com/ghpvc/?username=smartanilmali234-art&style=for-the-badge&color=0077FF&label=PROFILE+VIEWS"/> <a href="https://github.com/smartanilmali234-art?tab=followers"> <img src="https://img.shields.io/github/followers/smartanilmali234-art?style=for-the-badge&color=00C853&label=FOLLOWERS"/> </a> </div>
 ---
 
 ## 👨‍💻 About Me
