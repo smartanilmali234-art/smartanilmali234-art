@@ -1,7 +1,6 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= HEADER BANNER ================= -->
 <div align="center">
-  <h1>👋 Hi, I'm Anil Mali</h1>
-  <p><strong>AI &amp; Data Science Student | Aspiring Data Scientist</strong></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:06b6d4&height=190&section=header&text=ANIL%20MALI&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Aspiring%20Data%20Scientist&descAlignY=62&descSize=18" width="100%" alt="Anil Mali Header" />
 </div>
 
 <!-- ================= TYPING ANIMATION & VIEWS ================= -->
@@ -9,7 +8,7 @@
   <a href="https://github.com/smartanilmali234-art">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=BE+Student+in+AI+%26+Data+Science;Machine+Learning+%26+Deep+Learning+Enthusiast;Building+Practical+AI+Projects;Aspiring+Data+Scientist;Always+Learning+%26+Innovating" alt="Typing Animation" />
   </a>
-  <br />
+  <br /><br />
   <img src="https://komarev.com/ghpvc/?username=smartanilmali234-art&style=flat-square&color=2563eb" alt="Profile Views" />
 </div>
 
@@ -18,10 +17,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Education**: B.E. student in **Artificial Intelligence and Data Science**.
-- 🤖 **Core Focus**: Machine Learning, Deep Learning, Computer Vision & Predictive Analytics.
-- 🔭 **Currently Working On**: Edge AI solutions and deep learning computer vision inspection systems.
-- 🌱 **Currently Learning**: LLMs, Retrieval-Augmented Generation (RAG) & MLOps pipelines.
-- 🎯 **Career Goal**: Leveraging data-driven models to solve real-world problems as a **Data Scientist / ML Engineer**.
+- 🤖 **Interests**: Machine Learning, Deep Learning, Computer Vision & Data Analytics.
+- 🐍 **Core Language**: Python for data processing, model building, and algorithmic problem-solving.
+- 🚀 **Mission**: Building practical, high-impact AI projects and advancing toward becoming a **Data Scientist**.
 
 ---
 
@@ -29,23 +27,23 @@
 
 <div align="center">
 
-<h4>💻 Languages & Databases</h4>
+<h4>💻 Programming Languages</h4>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,postgres,mongodb" alt="Languages and Databases" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css" alt="Programming Languages" />
 </a>
 
 <br />
 
-<h4>🧠 AI, Machine Learning & Frameworks</h4>
+<h4>🧠 AI, Machine Learning & Data Science</h4>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,fastapi,flask" alt="AI and ML Frameworks" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,anaconda,jupyter,flask,fastapi" alt="AI and Data Science" />
 </a>
 
 <br />
 
-<h4>⚙️ Tools, Environments & Platforms</h4>
+<h4>⚙️ Tools, Databases & DevOps</h4>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,jupyter,linux" alt="Tools and Platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mongodb,sqlite,mysql,linux" alt="Tools and Platforms" />
 </a>
 
 </div>
@@ -54,12 +52,12 @@
 
 ### 🚀 Featured Projects
 
-| Project | Highlights & Impact | Tech Stack | Code / Demo |
+| Project | Domain | Tech Stack | Status / Link |
 | :--- | :--- | :--- | :---: |
-| **🔍 AI Quality Inspection** | Real-time automated defect detection system for production line quality control. | `PyTorch` `OpenCV` `Python` | [Code](https://github.com/smartanilmali234-art/ai-quality-inspection) |
-| **🏭 Enterprise AI for Smart Manufacturing** | Predictive maintenance & operational intelligence combining IoT stream analytics with deep learning. | `Deep Learning` `IoT` `Python` | [Code](https://github.com/smartanilmali234-art/Enterprise-AI-Platform-for-Smart-Manufacturing) |
-| **🚁 Autonomous Multipurpose Drone System** | Edge-device vision algorithms for obstacle tracking and spatial mapping. | `YOLOv8` `Edge AI` `Sensors` | `In Development` |
-| **📈 Stock Market Prediction** | Time-series forecasting using recurrent models and gradient boosted decision trees. | `LSTM` `XGBoost` `Streamlit` | `In Development` |
+| **🔍 AI Quality Inspection** | Computer Vision | `PyTorch` `OpenCV` `Python` | [View Project](https://github.com/smartanilmali234-art/ai-quality-inspection) |
+| **🏭 Enterprise AI for Smart Manufacturing** | Industrial AI | `Deep Learning` `IoT` `Python` | [View Project](https://github.com/smartanilmali234-art/Enterprise-AI-Platform-for-Smart-Manufacturing) |
+| **🚁 Autonomous Multipurpose Drone System** | Edge AI & Robotics | `Python` `Sensors` `YOLO` | `In Development` |
+| **📈 Stock Market Prediction** | Time-Series Analytics | `LSTM` `XGBoost` `Streamlit` | `In Development` |
 
 ---
 
@@ -77,47 +75,19 @@
 
 ---
 
-### 🏆 Badges & Domains
+### 📅 Contribution Activity & Snake
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Domain-Artificial_Intelligence-2563EB?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Specialization-Data_Science-06B6D4?style=for-the-badge&logo=python&logoColor=white" alt="Data Science" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Practice-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smartanilmali234-art&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+
+  <br /><br />
+
+  <!-- Snake Animation -->
+  <img src="https://raw.githubusercontent.com/smartanilmali234-art/smartanilmali234-art/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 </div>
 
 ---
-###Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: smartanilmali234-art
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ### 🌐 Connect With Me
 
@@ -142,5 +112,5 @@ jobs:
 <br />
 
 <div align="center">
-  <i>"Learning every day. Building practical AI models one project at a time." 🚀</i>
+  <i>"Learning every day. Building one project at a time." 🚀</i>
 </div>
