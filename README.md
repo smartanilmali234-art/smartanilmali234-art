@@ -75,16 +75,24 @@
 
 ---
 
-### 📅 Contribution Activity & Snake
+### 🏆 Badges & Specializations
 
 <div align="center">
-  <!-- Activity Graph -->
+  <img src="https://img.shields.io/badge/Domain-Artificial_Intelligence-2563EB?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Specialization-Data_Science-06B6D4?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Data Science" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Primary-Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Practice-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</div>
+
+---
+
+### 📅 Contribution Activity
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=smartanilmali234-art&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-
-  <br /><br />
-
-  <!-- Snake Animation -->
-  <img src="https://raw.githubusercontent.com/smartanilmali234-art/smartanilmali234-art/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 </div>
 
 ---
