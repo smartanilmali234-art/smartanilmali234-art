@@ -71,21 +71,6 @@
   <img src="https://streak-stats.demolab.com?user=smartanilmali234-art&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
----
-
-### 📅 Contribution Activity & Snake
-
-<div align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smartanilmali234-art&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-
-  <br /><br />
-
-  <!-- Snake Animation -->
-  <img src="https://raw.githubusercontent.com/smartanilmali234-art/smartanilmali234-art/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
-</div>
-
----
 
 ### 🌐 Connect With Me
 
