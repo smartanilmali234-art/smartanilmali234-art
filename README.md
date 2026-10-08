@@ -77,14 +77,6 @@
 
 ---
 
-### 📈 Daily Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smartanilmali234-art&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</div>
-
----
-
 ### 🏆 Badges & Domains
 
 <div align="center">
