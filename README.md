@@ -1,7 +1,5 @@
-<!-- ================= HEADER BANNER ================= -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:06b6d4&height=190&section=header&text=ANIL%20MALI&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Aspiring%20Data%20Scientist&descAlignY=62&descSize=18" width="100%" alt="Anil Mali Header" />
-</div>
+<!-- ================= NAME TITLE ================= -->
+<h1 align="center">Hi there, I'm Anil Mali 👋</h1>
 
 <!-- ================= TYPING ANIMATION & VIEWS ================= -->
 <div align="center">
@@ -75,24 +73,16 @@
 
 ---
 
-### 🏆 Badges & Specializations
+### 📅 Contribution Activity & Snake
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Domain-Artificial_Intelligence-2563EB?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Specialization-Data_Science-06B6D4?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Data Science" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Primary-Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Practice-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-</div>
-
----
-
-### 📅 Contribution Activity
-
-<div align="center">
+  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=smartanilmali234-art&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+
+  <br /><br />
+
+  <!-- Snake Animation -->
+  <img src="https://raw.githubusercontent.com/smartanilmali234-art/smartanilmali234-art/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 </div>
 
 ---
